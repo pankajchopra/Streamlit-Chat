@@ -1,4 +1,4 @@
-# Streamlit Cha
+# Streamlit Chat
 
 Welcome to the WizardCoder Streamlit Demo, where code predictions are more magical than pulling a rabbit out of a hat! 🐰✨
 
