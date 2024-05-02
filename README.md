@@ -52,4 +52,4 @@ This Streamlit app is a nifty interface for the WizardCoder 34B model, which is 
 - [Model Weights](https://huggingface.co/WizardLM/WizardCoder-Python-34B-V1.0)
 - [Github](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)
 
-_Happy Streamlit-ing!_ 🎈
+_Happy Streamlit-ing!_ 🎈Ydemy2020/pankaj_ck@y
